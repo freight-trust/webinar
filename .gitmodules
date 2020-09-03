@@ -1,0 +1,6 @@
+[submodule "modules/sagemaker-deep-demand-forecast"]
+	path = modules/sagemaker-deep-demand-forecast
+	url = https://github.com/freight-trust/sagemaker-deep-demand-forecast
+[submodule "modules/aws-fleet-predictive-maintenance"]
+	path = modules/aws-fleet-predictive-maintenance
+	url = https://github.com/awslabs/aws-fleet-predictive-maintenance
